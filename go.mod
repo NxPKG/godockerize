@@ -1,4 +1,4 @@
-module github.com/neelance/godockerize
+module github.com/nxpkg/godockerize
 
 go 1.14
 
